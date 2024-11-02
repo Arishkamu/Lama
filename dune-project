@@ -1,5 +1,7 @@
 (lang dune 3.3)
 
+(name Lama)
+
 (cram enable)
 
 (generate_opam_files true)
